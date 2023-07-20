@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svramprabu
 - 👀 I’m interested in becoming a Software Developer.
-- 🌱 I’m currently learning DSA in GeeksforGeeks.
+- 🌱 I’m currently mastering DataScience with Guvi.
 - 💞️ I’m looking to collaborate on this learning journey.
 - 📫 you can reach me through @ +918220367588 
 
