@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svramprabu
-- 👀 I’m interested in becoming a Software Developer.
-- 🌱 I’m currently mastering DataScience with Guvi.
-- 💞️ I’m looking to collaborate on this learning journey.
+- 👀 - Accomplished administrative professional with 7 years of dedicated experience in nursery and primary school settings. 
+- Recently completed the rigorous IITM Advance Professional Program in Master Data Science through Guvi, showcasing a commitment to upskilling and career transition. 
+- Eager to leverage a strong foundation in administration and embark on a new journey in Data Science, bringing analytical aptitude, problem-solving skills, and a passion for meaningful data-driven insights to contribute effectively to the field.
 - 📫 you can reach me through @ +918220367588 
 
 <!---
